@@ -8,7 +8,7 @@ Develop: De Master gecopiëerd naar deze nieuwe branche. Daarna de dieren 'Schaa
 
 Feature(-1): Develop gecopiëerd naar deze nieuwe branche. Daarna de dieren 'Ezel' en 'Geit' toegevoegd per commit.
 
-Terug switchen naar branche Develop. Daarna dier 'Varken' toegevoegd en gecommit. 
+Terug switchen naar branche Develop. Daarna het dier 'Varken' toegevoegd en gecommit. 
 
 Einde opdracht. 
 
