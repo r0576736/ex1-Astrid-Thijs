@@ -9,6 +9,7 @@ var dier = [];
 dier.push("Kip");
 dier.push("Koe");
 dier.push("Schaap");
+dier.push("Konijn");
 
 
 
