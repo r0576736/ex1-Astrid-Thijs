@@ -6,7 +6,8 @@
 
 var dier = [];
 
-dier.push("kip");
+dier.push("Kip");
+dier.push("Koe");
 
 
 
